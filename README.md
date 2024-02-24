@@ -102,6 +102,15 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## Output
+### i) Write the frame as JPG image
+![image](https://github.com/Nagul71/Image_Acqusition-_using_Web_Camera/assets/118661118/af4effd2-1c2b-4f5c-a1d7-d501fb648b14)
+### ii) Display the video
+![Screenshot 2024-02-24 221936](https://github.com/Nagul71/Image_Acqusition-_using_Web_Camera/assets/118661118/c16015d8-43de-4e69-ada6-6c8384f7c2af)
+### iii) Display the video by resizing the window
+![Screenshot 2024-02-24 222632](https://github.com/Nagul71/Image_Acqusition-_using_Web_Camera/assets/118661118/ab441c08-ebe0-421c-9953-e87094acb615)
+### iv) Rotate and display the video
+![Screenshot 2024-02-24 222742](https://github.com/Nagul71/Image_Acqusition-_using_Web_Camera/assets/118661118/baa5132a-ebf2-4a11-83ce-1020e421151f)
+
 
 
 ## Result:
